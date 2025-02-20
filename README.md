@@ -1,4 +1,7 @@
 PizzaHub Sales Analysis (2024)
+
+
+
 Project Overview
 This project analyzes PizzaHub’s sales data for the year 2024 using SQL for data transformation and Power BI for visualization.
 The goal is to extract meaningful insights related to sales trends, best-selling products, and key business metrics.
@@ -44,6 +47,18 @@ Sales Breakdown by category and size.
 Total Pizzas Sold by category.
 Top and Bottom Performing Pizzas based on revenue, quantity, and orders.
 Each dashboard includes additional textual insights placed inside highlighted shapes to enhance readability.
+
+Dashboard Preview
+
+Home Dashboard 
+This dashboard displays key KPIs such as total revenue, total orders, average order value, and trends. It also includes insights on the busiest days and best-selling pizzas.  
+
+![Home Dashboard](https://github.com/anshita742/PizzaHub-Sales-Project/blob/main/Home.jpg?raw=true)  
+
+Best & Worst Sellers Dashboard  
+This dashboard highlights the top 5 best-selling and worst-selling pizzas based on revenue, quantity, and total orders.  
+
+![Best & Worst Sellers Dashboard](https://github.com/anshita742/PizzaHub-Sales-Project/blob/main/Best%20and%20worst%20rated.jpg?raw=true)  
 
 How to Use This Project
 SQL Queries
